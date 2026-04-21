@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5944913115751131319}
   - component: {fileID: 9189110072867751946}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zombie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 962147905770220634}
   - component: {fileID: 7306597129445933561}
   - component: {fileID: 5577276002283479091}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Capsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
